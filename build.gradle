@@ -56,7 +56,7 @@ subprojects {
 
     checkstyle {
         // configure to use checkstyle v8.41
-        toolVersion "8.41"
+        toolVersion "8.45.1"
         // Gradle shouldn't fail builds on checkstyle errors
         ignoreFailures = true
         // Checkstyle config file is in .checkstyle/checkstyle.xml
